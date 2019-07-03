@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    '投票.apps.投票Config',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
