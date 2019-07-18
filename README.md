@@ -1,0 +1,1 @@
+- [中文代码之Django官方入门：建立模型](https://zhuanlan.zhihu.com/p/72170870)
